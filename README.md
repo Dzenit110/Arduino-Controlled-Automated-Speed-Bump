@@ -62,7 +62,6 @@ Besides the visual warning, the system also alerts the driver with an audio sign
     <img src="https://github.com/user-attachments/assets/4bb57f71-d6f2-494b-8f58-0ac2fe876ec0" width="400" /><br>
   <br>  <p>Figure 8 Display of the Raised Speed Bump (Red Light) Triggered by a Fast-Passing Vehicle</p>
 </div>
-<br><br>
 
 ## 🧰 Languages & Tools <br><br>
 
