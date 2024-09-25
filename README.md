@@ -40,27 +40,22 @@ Besides the visual warning, the system also alerts the driver with an audio sign
 </div>
 <br>
 
-<div style="text-align: center;"> 
-    <img src="![image](https://github.com/user-attachments/assets/c282abbb-7fde-4c69-aafb-e86edd45e75c)" /><br>
-    <p>Figure 5 Display of the Project Implementation with Arduino Uno Microcontroller</p>
-</div>
-<br>
 
 <div style="text-align: center;"> 
     <img src="https://github.com/user-attachments/assets/69ea6cf1-b2ce-4765-83a1-5f59930cbf18" width="400" /><br>
-  <br>  <p>Figure 6 Display of the Photoresistor as a Speed Sensor</p>
+  <br>  <p>Figure 5 Display of the Photoresistor as a Speed Sensor</p>
 </div>
 <br>
 
 <div style="text-align: center;"> 
     <img src="https://github.com/user-attachments/assets/ca4612e1-0ca1-46b3-b353-f82b38322f77" width="400" /><br>
-    <br> <p>Figure 7 Display of the Complete Project with Assembled Servo Motor, Sensors, and Microcontroller (Green Light)</p>
+    <br> <p>Figure 6 Display of the Complete Project with Assembled Servo Motor, Sensors, and Microcontroller (Green Light)</p>
 </div>
 <br>
 
 <div style="text-align: center;"> 
     <img src="https://github.com/user-attachments/assets/4bb57f71-d6f2-494b-8f58-0ac2fe876ec0" width="400" /><br>
-  <br>  <p>Figure 8 Display of the Raised Speed Bump (Red Light) Triggered by a Fast-Passing Vehicle</p>
+  <br>  <p>Figure 7 Display of the Raised Speed Bump (Red Light) Triggered by a Fast-Passing Vehicle</p>
 </div>
 
 ## 🧰 Languages & Tools <br><br>
