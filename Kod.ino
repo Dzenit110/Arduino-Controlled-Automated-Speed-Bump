@@ -1,10 +1,6 @@
 /*
  Program za automatski lezeci policajac
  Projekat kreiran u okviru maturskog rada
- Autori: Dzenit Vildic
-         Mirza Ahmedbegovic
-         Robert Pavic
- Mentor: Sejfudin Fudo Agic
  Datum pocetka izrade: 14.01.2019.
  Datum zavretka izrade: 29.01.2019.
  */
