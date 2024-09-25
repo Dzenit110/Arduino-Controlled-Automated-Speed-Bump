@@ -16,47 +16,28 @@ Besides the visual warning, the system also alerts the driver with an audio sign
 
 ## User Interface Examples
 
-<img src="https://github.com/user-attachments/assets/d9759167-59d1-4397-9cdf-41b3c00e89f6" &nbsp; &nbsp;/>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/d9759167-59d1-4397-9cdf-41b3c00e89f6" width="200" /><br>
+    <p>Figure 1 Display of the 3D model of the project / model</p><br>
 
-<br>
-Figure 1 Display of the 3D model of the project / model
-<br><br>
+    <img src="https://github.com/user-attachments/assets/c924b4c9-7ff8-4b33-a3b3-d9d1489f426c" width="200" /><br>
+    <p>Figure 2 Display example when the speed bump is lowered.</p><br>
 
+    <img src="https://github.com/user-attachments/assets/91ff6aff-6633-4ea1-bc5f-3926ad8fad9e" width="200" /><br>
+    <p>Figure 3 Display example when the speed bump is raised.</p><br>
 
-<img src="https://github.com/user-attachments/assets/c924b4c9-7ff8-4b33-a3b3-d9d1489f426c"  />
+    <img src="https://github.com/user-attachments/assets/26ed7460-bd1f-4248-a20e-6c9494728584" width="200" /><br>
+    <p>Figure 4 Side view of the speed bump</p><br>
 
-<br>
-Figure 2 Display example when the speed bump is lowered.
+    <img src="https://github.com/user-attachments/assets/dc9ee431-f5bc-4a2b-b4b59d9e3284" width="200" /><br>
+    <p>Figure 5 Display of the Project Implementation with Arduino Uno Microcontroller</p><br>
 
-<br><br>
+    <img src="https://github.com/user-attachments/assets/69ea6cf1-b2ce-4765-83a1-5f59930cbf18" width="200" /><br>
+    <p>Figure 6 Display of the Photoresistor as a Speed Sensor</p><br>
 
-<img src="https://github.com/user-attachments/assets/91ff6aff-6633-4ea1-bc5f-3926ad8fad9e"  />
-<br>
+    <img src="https://github.com/user-attachments/assets/ca4612e1-0ca1-46b3-b353-f82b38322f77" width="200" /><br>
+    <p>Figure 7 Display of the Complete Project with Assembled Servo Motor, Sensors, and Microcontroller (Green Light)</p><br>
 
-Figure 3 Display example when the speed bump is raised.
-<br><br>
-
-<img src="https://github.com/user-attachments/assets/26ed7460-bd1f-4248-a20e-6c9494728584" />
-<br>
-Figure 4 Side view of the speed bump
-<br><br>
-
-In Figure 4, we can see a side view of the speed bump. The height of this speed bump is no different from that of a standard speed bump. Its function remains the same: when a vehicle approaches the speed bump, it slows down, gradually crosses over it, and then continues on its path at the previous speed.<br><br>
-
-<img src="https://github.com/user-attachments/assets/dc9ee431-f5bc-4f8c-a2b3-b4b59d9e3284" />
-
-<br>
-Figure 5 Display of the Project Implementation with Arduino Uno Microcontroller
-
-<br><br>
-
-<img src="https://github.com/user-attachments/assets/69ea6cf1-b2ce-4765-83a1-5f59930cbf18"  />
-<br>
-
-Figure 6 Display of the Photoresistor as a Speed Sensor
-
-
-
-
-
-
+    <img src="https://github.com/user-attachments/assets/4bb57f71-d6f2-494b-8f58-0ac2fe876ec0" width="200" /><br>
+    <p>Figure 8 Display of the Raised Speed Bump (Red Light) Triggered by a Fast-Passing Vehicle</p>
+</div>
