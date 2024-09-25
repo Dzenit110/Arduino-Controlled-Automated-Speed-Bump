@@ -41,7 +41,7 @@ Besides the visual warning, the system also alerts the driver with an audio sign
 <br>
 
 <div style="text-align: center;"> 
-    <img src="![image](https://github.com/user-attachments/assets/c282abbb-7fde-4c69-aafb-e86edd45e75c)" width="400" /><br>
+    <img src="![image](https://github.com/user-attachments/assets/c282abbb-7fde-4c69-aafb-e86edd45e75c)" /><br>
     <p>Figure 5 Display of the Project Implementation with Arduino Uno Microcontroller</p>
 </div>
 <br>
