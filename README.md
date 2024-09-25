@@ -36,7 +36,7 @@ Besides the visual warning, the system also alerts the driver with an audio sign
 
 <div style="text-align: center;"> 
     <img src="https://github.com/user-attachments/assets/26ed7460-bd1f-4248-a20e-6c9494728584" width="400" /><br>
-   <br> <p>Figure 4 Side view of the speed bump</p>
+    <p>Figure 4 Side view of the speed bump</p>
 </div>
 <br>
 
