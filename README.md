@@ -14,6 +14,17 @@ The speed bump can be in one of two possible positions: flush with the road or r
 
 Besides the visual warning, the system also alerts the driver with an audio signal indicating the speed bump is about to be raised. The audio signal is generated using a speaker connected to a digital output of the microcontroller. To enable remote monitoring, messages about the status of the speed bump are displayed on a computer via a serial port connection.
 
+## Features of Arduino-Controlled Automated Speed Bump
+
+- **Speed Detection**: Utilizes two photoresistors to measure vehicle speed and determine if it's above a safe threshold.
+- **Automatic Activation**: Automatically raises the speed bump if a vehicle crosses the sensors too quickly (in less than 1200 milliseconds).
+- **Servo Motor Mechanism**: Operated by a servo motor to raise and lower the speed bump between flush and raised positions.
+- **Visual Alert**: An LED signals the driver when the speed bump is raised, providing a clear visual warning.
+- **Audio Alert**: Generates an audio signal through a speaker to warn drivers of the speed bump activation.
+- **Remote Monitoring**: Displays status messages about the speed bump's position on a computer via a serial port connection for real-time monitoring.
+
+
+
 ## User Interface Examples
 
 <div style="text-align: center;">
