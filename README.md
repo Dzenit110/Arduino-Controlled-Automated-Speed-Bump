@@ -10,7 +10,7 @@ The device works by using two photoresistors (placed on the road where the car p
 
 If the car crosses the distance between the two sensors in less than 1200 milliseconds, the system concludes that the car is moving too fast and the automatic speed bump is triggered. The mechanism for the speed bump is located below road level and is operated by a servo motor.
 
-The speed bump can be in one of two possible positions: flush with the road or raised above the road. When the system detects that the car is speeding, it responds by raising the speed bump and keeping it raised for 3 seconds before lowering it back to road level. Additionally, an LED, also connected to the microcontroller, signals the driver that the automatic speed bump is being raised. This LED remains lit as long as the speed bump is raised.
+The speed bump can be in one of two possible positions: flush with the road or raised above the road. When the system detects that the car is speeding, it responds by raising the speed bump and keeping it raised for 3 seconds before lowering it back to road level. Additionally, an LED, also connected to the microcontroller, signals the driver that the automatic speed bump is being raised. This LED remains lit as long as the speed bump is raised..
 
 Besides the visual warning, the system also alerts the driver with an audio signal indicating the speed bump is about to be raised. The audio signal is generated using a speaker connected to a digital output of the microcontroller. To enable remote monitoring, messages about the status of the speed bump are displayed on a computer via a serial port connection.
 
